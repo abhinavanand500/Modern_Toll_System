@@ -1,3 +1,15 @@
-# Modern_Toll_System
+# MODERN TOLL SYSTEM
 
-Created to reduce accidents in highways
+
+## Introduction
+
+This project is developed in order to reduce the accidents that took place in highways by maintaining the speed of Vehicle in highway and if vehicle the vehicle tries to overspeed then owner have to fine.
+
+
+Setup:
+
+-   run `g++ toll.cpp`
+-   run `./a.out`
+
+
+**Thank You :)**
